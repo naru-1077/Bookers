@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.title_name {
+  display: block;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.body_name {
+  display: block;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.btn {
+  display: block;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+span {
+  display: inline-block;
+  margin-left: 20px;
+  margin-top: 10px;
+}
